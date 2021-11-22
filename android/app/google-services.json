@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543082175306",
+    "firebase_url": "https://tanzak-for-test.firebaseio.com",
+    "project_id": "tanzak-for-test",
+    "storage_bucket": "tanzak-for-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543082175306:android:a12278c36790e288ba3fb3",
+        "android_client_info": {
+          "package_name": "com.bnk.tanzak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543082175306-rk1p75ocje82lvja224jfe6kue6an51q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6XR8KIitr9-bQ1wf2NJODnfYZxjNM_3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543082175306-rk1p75ocje82lvja224jfe6kue6an51q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543082175306-rftd5kf7q8qphlq712ntmc9e0pblvmkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "acvhcm.tanzaku.vn",
+                "app_store_id": "1500520783"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
